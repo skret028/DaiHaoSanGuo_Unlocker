@@ -1,0 +1,6 @@
+# 只发布说明与 Release 附件，二进制不入库
+*.exe
+*.ico
+*.pdb
+dist/
+源码/
