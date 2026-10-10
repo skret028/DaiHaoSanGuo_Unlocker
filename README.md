@@ -20,7 +20,7 @@
 
 ## 下载
 
-到本仓库的 **[Releases](../../releases)** 页面下载 `代号三国解锁器_v1.3.exe`。
+到本仓库的 **[Releases](../../releases)** 页面下载 `DaiHaoSanGuo_Unlocker.exe`。
 
 - 单文件，免安装，**不需要装 .NET**
 - 图标与游戏一致，方便辨认
@@ -31,7 +31,7 @@
 2. （建议）关闭本游戏的 **Steam 云同步**：
    Steam → 右键《代号三国：龙起》→ 属性 → 通用 → 取消勾选「Steam 云」。
    *不关的话，启动时可能被云端的旧存档覆盖，导致解锁看不到效果。*
-3. 双击运行 `代号三国解锁器_v1.3.exe`。
+3. 双击运行 `DaiHaoSanGuo_Unlocker.exe`。
 4. 确认界面上两个路径（程序会自动探测）：
    - **游戏目录**：Steam 库里 `steamapps\common\DaiHaoSanGuo`
    - **存档目录**：默认 `%USERPROFILE%\AppData\LocalLow\MountainSeaStudio\ThreeKingdom`
